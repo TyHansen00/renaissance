@@ -1,4 +1,4 @@
-# [renaissance](www.tylermhansen.com/renaissance)
+# renaissance
 
 The website for my CS267 project, "renaissance". Uses the [Creative](http://startbootstrap.com/template-overviews/creative/) theme for [Bootstrap](http://getbootstrap.com/) by [Start Bootstrap](http://startbootstrap.com/).
 
